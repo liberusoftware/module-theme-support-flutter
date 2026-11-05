@@ -1,5 +1,5 @@
-name: module_boilerplate_flutter
-description: Liberu Flutter · Mobile reusable module foundation.
+name: module_theme_support_flutter
+description: "Theme Support Flutter \u00b7 Mobile presentation skeleton."
 version: 0.1.0-dev.1
 publish_to: none
 environment:

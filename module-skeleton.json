@@ -1,0 +1,25 @@
+{
+  "repository": "module-theme-support-flutter",
+  "capabilityKey": "liberusoftware/theme-support",
+  "presentation": "mobile-flutter",
+  "package": "module_theme_support_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/boilerplate/nextjs/theme-support.md",
+  "presentationPlan": "projects/boilerplate/flutter/theme-support.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
